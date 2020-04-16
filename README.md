@@ -1,2 +1,3 @@
 # lambda-hello_world
-simple lambda function
+npm install
+zip -r ../lambda_ms_team.zip .
