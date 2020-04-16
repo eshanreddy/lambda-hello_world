@@ -5,8 +5,8 @@ provider:
   runtime: python3.6
   region: us-east-2
   credentials:
-    accessKeyId: AKIAUGSPO4IXAXAMBXGB
-    secretAccessKey: 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 
+    accessKeyId: <>
+    secretAccessKey: <>
 
 functions:
   test_function:

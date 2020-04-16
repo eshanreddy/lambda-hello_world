@@ -1,0 +1,14 @@
+{
+    "name": "aws-lambda-to-ms-teams",
+    "version": "1.0.0",
+    "description": "AWS Lambda To Microsoft Teams Forwarder",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "dependencies": {
+      "request": "^2.88.0"
+    }
+  }
